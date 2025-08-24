@@ -24,6 +24,7 @@ background-color:#FBFBFB ;
 
 
 .alex-h1{
+      font-family: 'Cera Pro',;
 width: auto;
 height: 16.079601287841797px;
 opacity: 1;
@@ -37,6 +38,7 @@ margin-bottom: 1px;
 }
 
 .alex-p{
+     font-family: 'Cera Pro',; 
 width: 204;
 height: 66.32836151123047;
 top: 25.12px;
@@ -144,7 +146,7 @@ opacity: 1;
 
 
 .alex-p-text{
- font-family: Cera Pro;
+  font-family: 'Cera Pro',;
 font-weight: 400px;
 font-size: 14px;
 line-height: 22px;
@@ -159,4 +161,78 @@ margin-left: 5px;
     justify-content:flex-start;
     align-items: center;
     
+}
+
+.alex-amega{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 160px;
+    max-width: 1200px;
+    background-color: #FBFBFB; 
+    height: 236px;
+}
+
+.amega-div{
+display: flex;
+flex-direction: column;
+}
+
+.btn-div{
+    display: flex;
+    
+}
+
+
+.amega-h1{
+     font-family: 'Cera Pro',;
+font-family: Cera Pro;
+font-weight: 700;
+font-size: 18px;
+line-height: 16px;
+letter-spacing: 0%;
+color:#3D3D3D ;
+margin-top: 35px;
+}
+
+
+
+.a-amega{
+font-family: Cera Pro;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+letter-spacing: 0%;
+color: #3D3D3D;
+text-decoration: none;
+}
+
+
+
+.a-amega-btn{
+width: 30px;
+height: 30px;
+opacity: 1;
+border-radius: 4px;
+border-width: 1px;
+border-color:#46A35833 ;
+background-color:#FBFBFB ;
+margin-right: 10px;
+}
+
+
+.alex-doun{
+    text-align: center;
+}
+
+
+.p-doun{
+     font-family: 'Cera Pro',;
+font-family: Cera Pro;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+letter-spacing: 0%;
+color:#3D3D3D ;
+opacity: 1;
+
 }
