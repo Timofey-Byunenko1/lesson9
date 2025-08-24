@@ -1,4 +1,44 @@
-div{
-    background-image: linear-gradient(to right,  red, #222);
-    height: 30px;
-} 
+.svg-alex{
+    padding-left: 16px;
+}
+
+
+.alex-div{
+width: 250px;
+height: 248px;
+top: 24px;
+left: 25px;
+opacity: 1;
+background-color:#FBFBFB ;
+}
+
+
+.alex-h1{
+width: 101px;
+height: 16.079601287841797px;
+opacity: 1;
+font-family: Cera Pro;
+font-weight: 700;
+font-size: 17px;
+line-height: 16px;
+letter-spacing: 0%;
+padding-left: 16px;
+margin-bottom: 1px;
+}
+
+.alex-p{
+width: 204;
+height: 66.32836151123047;
+top: 25.12px;
+opacity: 1;
+font-family: Cera Pro;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+letter-spacing: 0%;
+padding-left: 16px;
+margin-top: 8px;
+color: #727272;
+padding-right: 40px;
+
+}
